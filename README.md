@@ -1,4 +1,4 @@
-#Tasks to-do list command line application
+#To-do list command line php application
 --
 1. Just git clone and change dir to your created folder.
 2. run in terminal: 
