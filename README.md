@@ -1,5 +1,5 @@
 ## To-do list command line php application
----
+
 #### This simple application is just example how to use command line with php
 1. Just git clone and change dir to your created folder.
 2. run in terminal: 
